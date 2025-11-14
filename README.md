@@ -1,2 +1,2 @@
 # Minimal-Spanning-Trees-Kruskal-s-vs.-Prim-s-Algorithm
-A comparison containing an overview an implementation of Kruskal's and Prim's Algorithm concerning the efficiency and optimizations to finding the minimal spanning tree in an undirected graph.
+This project compares and implements Kruskal’s and Prim’s algorithms, examining their efficiency, data-structure choices, and optimization strategies for building a minimum spanning tree in an undirected graph.
